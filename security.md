@@ -9,7 +9,7 @@ The **Payday 2 NSFW Mods** collection is the ultimate **free** community-driven 
 
 <div align="center">
 
-[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/payday-2-nsfw-m0ds)
+[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/S8nGIWQjgptNeR8Wg)
 
 </div>
 
@@ -85,7 +85,7 @@ The modding scene for Payday 2 has evolved into a massive ecosystem of custom co
 
 <div align="center">
 
-[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/payday-2-nsfw-m0ds)
+[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/S8nGIWQjgptNeR8Wg)
 
 </div>
 
@@ -130,7 +130,7 @@ The modding scene for Payday 2 has evolved into a massive ecosystem of custom co
 
 <div align="center">
 
-[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/payday-2-nsfw-m0ds)
+[![Download NSFW Mod Pack](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/S8nGIWQjgptNeR8Wg)
 
 **Version 5.2.0 Stable** — The Ultimate Heister's Paradise. April 2026 Update. Zero cost.
 
